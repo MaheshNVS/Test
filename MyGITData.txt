@@ -1,0 +1,1 @@
+File for checking remote connection and push command for GIT
