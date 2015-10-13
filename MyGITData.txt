@@ -1,2 +1,4 @@
 File for checking remote connection and push command for GIT
 adding lines to cross check git upload
+
+new line for testing purpose
