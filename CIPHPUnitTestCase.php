@@ -271,6 +271,10 @@ class CIPHPUnitTestCase extends PHPUnit_Framework_TestCase
 	 */
 	public function assertRedirect($uri, $code = null)
 	{
+        
+        #for testing GIT
+        
+        
 		$status = $this->request->getStatus();
 
 		if ($status['redirect'] === null)
